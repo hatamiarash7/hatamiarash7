@@ -2,7 +2,11 @@
 
 <br/>
 
-<a href="https://twitter.com/hatamiarash7">
+<p align="center">
+I'm 25 years old self-taught Full-Stack developer & DevOps from Iran
+</p>
+
+<a href="https://twitter.com/hatamiarash7" align="center">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hatamiarash7/">
