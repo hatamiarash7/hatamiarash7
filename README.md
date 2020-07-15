@@ -18,4 +18,4 @@
 <br/>  
 <br/>
 
-[![Arash's github stats](https://github-readme-stats.vercel.app/api?username=hatamiarash7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Arash's github stats](https://github-readme-stats.vercel.app/api?username=hatamiarash7&show_icons=true&hide_rank=true&bg_color=191b1f&title_color=36beb6&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
