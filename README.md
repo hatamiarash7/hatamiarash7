@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋</h1>
 
 <br/>
 
@@ -20,11 +20,9 @@
 
 [![Arash's github stats](https://github-readme-stats.vercel.app/api?username=hatamiarash7&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+<br />  
 
-*************
-
-<br />
+*************  
 
 <h2 align="center">Languages and Tools</h2>
 
