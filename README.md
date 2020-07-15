@@ -14,3 +14,8 @@
 <a href="https://www.instagram.com/hatamiarash7/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<br/>  
+<br/>
+
+[![Arash's github stats](https://github-readme-stats.vercel.app/api?username=hatamiarash7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
