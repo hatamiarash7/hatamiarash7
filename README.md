@@ -20,9 +20,11 @@ I'm 25 years old self-taught Full-Stack developer & DevOps from Iran
 </a>
 
 <br/>  
-<br/>
+<br/> 
 
-[![Arash's github stats](https://github-readme-stats.vercel.app/api?username=hatamiarash7&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"])](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+  <img src=https://github-readme-stats.vercel.app/api?username=hatamiarash7&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
+</p>
 
 *************  
 
