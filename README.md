@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Arash</h1>
 
 <br/>
 
 <p align="center">
-I'm 25 years old self-taught Full-Stack developer & DevOps from Iran
+A 25 years old self-taught Full-Stack developer & DevOps from Iran
 </p>
 
 <br/> 
@@ -27,6 +27,9 @@ I'm 25 years old self-taught Full-Stack developer & DevOps from Iran
 <br/>  
 
 *************  
+
+<br/>
+
 
 <h2 align="center">Languages and Tools</h2>
 
