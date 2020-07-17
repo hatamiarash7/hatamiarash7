@@ -7,13 +7,13 @@ I'm 25 years old self-taught Full-Stack developer & DevOps from Iran
 </p>
 
 <p align="center">
-<a href=https://codepen.io/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="hatamiarash7" height="20" width="20" /></a>
-<a href=https://dev.to/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="hatamiarash7" height="20" width="20" /></a>
-<a href=https://twitter.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="hatamiarash7" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="hatamiarash7" height="20" width="20" /></a>
-<a href=https://fb.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="hatamiarash7" height="20" width="20" /></a>
-<a href=https://instagram.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="hatamiarash7" height="20" width="20" /></a>
-<a href="https://t.me/hatamiarash7"><img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href=https://codepen.io/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg height="20" width="20" /></a>
+<a href=https://dev.to/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg height="20" width="20" /></a>
+<a href=https://twitter.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg height="20" width="20" /></a>
+<a href=https://linkedin.com/in/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg height="20" width="20" /></a>
+<a href=https://fb.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg height="20" width="20" /></a>
+<a href=https://instagram.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg height="20" width="20" /></a>
+<a href="https://t.me/hatamiarash7" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="20" width="20" /></a>
 </p>
 
 <br/>  
