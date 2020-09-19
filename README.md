@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-A 25 years old self-taught Full-Stack developer & DevOps from Iran
+A 25 years old self-taught DevOps & Full-Stack developer from Iran
 </p>
 
 <br/> 
