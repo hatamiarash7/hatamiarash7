@@ -16,7 +16,7 @@ A 25 years old self-taught DevOps & Backend developer from Iran
 <a href=https://fb.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg height="20" width="20" /></a>
 <a href=https://instagram.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg height="20" width="20" /></a>
 <a href=https://t.me/hatamiarash7 target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="20" width="20" /></a>
-<a href=https://stackoverflow.com/users/4905220/arash-hatami target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg height="20" width="20" /></a>
+<a href=https://stackoverflow.com/users/4905220/arash-hatami target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg height="20" width="20" /></a>
 </p>
 
 <br/>  
