@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arash</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Arash</h1>
 
 <br/>
 
@@ -21,40 +21,11 @@ A 27 years old self-taught DevOps & Backend developer from Iran
 <br/>  
 
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=hatamiarash7&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
+  <img src=https://github-readme-stats.vercel.app/api?username=hatamiarash7&hide_border=true&bg_color=191b1f&title_color=36beb6&text_color=fff&line_height=20&hide=["stars"] />
   <br/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hatamiarash7&layout=compact&bg_color=191b1f&title_color=36beb6&text_color=fff&hide=html,css&langs_count=4 />
+  <img src=https://github-readme-streak-stats.herokuapp.com?user=hatamiarash7&theme=bear&hide_border=true&date_format=j%20M%5B%20Y%5D&background=191B1F&fire=36BEB6&ring=36BEB6&stroke=FFFFFF88&sideNums=36BEB6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF76 />
+  <br/>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hatamiarash7&layout=compact&hide_border=true&bg_color=191b1f&title_color=36beb6&text_color=fff&hide=html,css&langs_count=4 />
 </p>
-
-<br/>  
-
-*************  
 
 <br/>
-
-
-<h2 align="center">Languages and Tools</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" style="margin:6px 4px">
-  <br>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/cloud.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/firefox.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/iot.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg" style="margin:6px 4px">
-  <br>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg" style="margin:6px 4px">
-  <br>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_phpstorm.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" style="margin:6px 4px">
-  <br>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/cisco.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/pc.svg" style="margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/raspberrypi.svg" style="margin:6px 4px">
-</p>
