@@ -9,13 +9,13 @@ A 27 years old self-taught DevOps & Backend developer from Iran
 <br/> 
 
 <p align="center">
-<a href=https://codepen.io/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg height="20" width="20" /></a>
+<a href=https://codepen.io/hatamiarash7 target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/000000/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-fresh-tal-revivo.png" height="20" width="20" /></a>
 <a href=https://dev.to/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg height="20" width="20" /></a>
-<a href=https://twitter.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg height="20" width="20" /></a>
-<a href=https://linkedin.com/in/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg height="20" width="20" /></a>
-<a href=https://fb.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg height="20" width="20" /></a>
-<a href=https://instagram.com/hatamiarash7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg height="20" width="20" /></a>
-<a href=https://t.me/hatamiarash7 target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="20" width="20" /></a>
+<a href=https://twitter.com/hatamiarash7 target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/hatamiarash7 target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="20" width="20" /></a>
+<a href=https://fb.com/hatamiarash7 target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" height="20" width="20" /></a>
+<a href=https://instagram.com/hatamiarash7 target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png" height="20" width="20" /></a>
+<a href=https://t.me/hatamiarash7 target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="20" width="20" /></a>
 </p>
 
 <br/>  
