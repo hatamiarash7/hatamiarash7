@@ -35,3 +35,7 @@ A 27 years old self-taught DevOps & Backend developer from Iran
 <br/>
 
 ![](https://hit.yhype.me/github/profile?user_id=16325641)
+
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
