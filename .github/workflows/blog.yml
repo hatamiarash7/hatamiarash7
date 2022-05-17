@@ -1,0 +1,19 @@
+name: Blog
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Update Blog section
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Pull posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://arash-hatami.ir/rss/"
