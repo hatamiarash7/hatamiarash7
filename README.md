@@ -1,3 +1,7 @@
+![readme-ascii](Arash.png)
+
+<br/>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Arash</h1>
 
 <br/>
