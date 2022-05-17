@@ -42,7 +42,6 @@ A 27 years old self-taught DevOps & Backend developer from Iran
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [مدیریت بهتر متغیر ها در Ansible](https://arash-hatami.ir/ansible-check-variables/)
 - [تنظیم SSL در Traefik با ابرآروان](https://arash-hatami.ir/arvancloud-ssl-with-traefik/)
 - [دستورات کاربردی و کمتر رایج در Git](https://arash-hatami.ir/rare-git-commands/)
