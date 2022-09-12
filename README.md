@@ -42,11 +42,11 @@ A 27 years old self-taught DevOps & Backend developer from Iran
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [استفاده از Underscore در هدر های HTTP](https://arash-hatami.ir/underscore-in-http-header/)
 - [ایجاد gitignore سراسری](https://arash-hatami.ir/global-gitignore/)
 - [مدیریت بهتر متغیر ها در Ansible](https://arash-hatami.ir/ansible-check-variables/)
 - [تنظیم SSL در Traefik با ابرآروان](https://arash-hatami.ir/arvancloud-ssl-with-traefik/)
 - [دستورات کاربردی و کمتر رایج در Git](https://arash-hatami.ir/rare-git-commands/)
-- [روش نصب و تنظیم سرور DHCP در لینوکس](https://arash-hatami.ir/configure-dhcp-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=16325641)
