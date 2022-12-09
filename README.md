@@ -42,11 +42,11 @@ A 27 years old self-taught DevOps & Backend developer from Iran
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [تنظیم Docker build args با فایل .env](https://arash-hatami.ir/docker-build-args-env/)
 - [مستندات خودکار برای Makefile](https://arash-hatami.ir/makefile-help-target/)
 - [استفاده از Underscore در هدر های HTTP](https://arash-hatami.ir/underscore-in-http-header/)
 - [ایجاد gitignore سراسری](https://arash-hatami.ir/global-gitignore/)
 - [مدیریت بهتر متغیر ها در Ansible](https://arash-hatami.ir/ansible-check-variables/)
-- [تنظیم SSL در Traefik با ابرآروان](https://arash-hatami.ir/arvancloud-ssl-with-traefik/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=16325641)
