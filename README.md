@@ -29,7 +29,7 @@ A 27 years old self-taught DevOps & Backend developer from Iran
   <br/>
   <img src=https://github-readme-streak-stats.herokuapp.com?user=hatamiarash7&theme=bear&hide_border=true&date_format=j%20M%5B%20Y%5D&background=191B1F&fire=36BEB6&ring=36BEB6&stroke=FFFFFF88&sideNums=36BEB6&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF76 />
   <br/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hatamiarash7&layout=compact&hide_border=true&bg_color=191b1f&title_color=36beb6&text_color=fff&hide=html,css&langs_count=4 />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hatamiarash7&layout=compact&hide_border=true&bg_color=191b1f&title_color=36beb6&text_color=fff&hide=html,css&langs_count=6 />
   <br/>
   <a href="https://stackoverflow.com/users/4905220/arash-hatami?tab=profile">
     <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/4905220?theme=dark" alt="user:4905220's SO profile">
