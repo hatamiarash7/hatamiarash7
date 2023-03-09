@@ -42,11 +42,11 @@ A 27 years old self-taught DevOps & Backend developer from Iran
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [استقرار آبی-سبز با DNS](https://arash-hatami.ir/blue-green-deployment-using-dns/)
 - [مدیریت Secret ها در داکر](https://arash-hatami.ir/docker-secrets/)
 - [استقرار در CaaS ابرآروان با استفاده از Github Actions](https://arash-hatami.ir/arvancloud-paas-action/)
 - [تنظیم Docker build args با فایل env](https://arash-hatami.ir/docker-build-args-env/)
 - [مستندات خودکار برای Makefile](https://arash-hatami.ir/makefile-help-target/)
-- [استفاده از Underscore در هدر های HTTP](https://arash-hatami.ir/underscore-in-http-header/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=16325641)
