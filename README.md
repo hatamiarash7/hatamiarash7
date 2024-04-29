@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-A 28 years old self-taught DevOps & Backend developer from Iran
+A 29-year-old self-taught DevOps & Backend developer from Iran
 </p>
 
 <br/>
