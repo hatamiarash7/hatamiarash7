@@ -42,11 +42,11 @@ A 29-year-old self-taught SRE Engineer & Backend developer from Iran
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [۹ قابلیت پایتون که اتوماسیون رو شیک و تمیز می‌کنه](https://arash-hatami.ir/9-python-features-for-automation/)
+- [روش‌های مختلف برای استفاده از تابع print در پایتون](https://arash-hatami.ir/5-different-ways-to-use-the-print-function-in-python/)
 - [استفاده پیشرفته از Type Hint ها در پایتون](https://arash-hatami.ir/python-advance-type-hints/)
 - [حذف متریک های سنگین در Prometheus](https://arash-hatami.ir/prometheus-remove-large-metrics/)
 - [استقرار آبی-سبز با DNS](https://arash-hatami.ir/blue-green-deployment-using-dns/)
-- [مدیریت Secret ها در داکر](https://arash-hatami.ir/docker-secrets/)
-- [استقرار در CaaS ابرآروان با استفاده از Github Actions](https://arash-hatami.ir/arvancloud-paas-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?user_id=16325641)
