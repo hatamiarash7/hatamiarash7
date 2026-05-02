@@ -25,4 +25,4 @@ jobs:
           user_agent: rss-parser
           commit_message: "Updated blog posts"
           retry_count: 3
-          retry_wait_time: 10
+          retry_wait_time: 60
